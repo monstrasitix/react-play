@@ -1,0 +1,12 @@
+@charset 'utf-8';
+@import '~bulma/bulma';
+// @import './normalize';
+
+
+.container.narrow {
+    max-width: 400px;
+}
+
+.landing {
+    height: 100vh;
+}
